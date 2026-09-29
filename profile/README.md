@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BHTWORK/.github/main/profile/assets/six-friends.gif" alt="함께 달리는 여섯 명의 픽셀 친구들 — BHTWORK" width="960" />
+<img src="https://raw.githubusercontent.com/BHTWORK/.github/main/profile/assets/six-friends-names-v1.gif" alt="함께 달리는 여섯 명의 픽셀 친구들 — BHTWORK" width="960" />
 
 </div>
 
